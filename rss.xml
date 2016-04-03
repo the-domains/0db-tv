@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[0db.tv]]></title>
         <description><![CDATA[0db.tv]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/0db-tv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 16:09:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 23:11:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/0db-tv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Issues with the rear tyre of Scott Redding’s (Octo Pramac Yakhnich) Ducati during Free Practice 4 on Saturday saw a raft of changes brought in. Michelin and Race Direction were unsure about the safety of rear tyres brought to the Gran Premio Motul de la República Argentina, and came to the decision to reduce the race from 25 laps to 20. As Warm Up had been held in wet conditions and the race started dry, riders were required to come in on their ninth, tenth or 11th lap of the race and change to their second bike. There were therefore no concerns about fuel or tyre life, riders able to give it their all on both stints.</p>]]></description>
+            <link>https://thegrid.ai/0db-tv/51b77d94-058c-49e9-81db-f8931fb1df73/index.html</link>
+            <guid isPermaLink="false">51b77d94-058c-49e9-81db-f8931fb1df73</guid>
+            <pubDate>Sun, 03 Apr 2016 23:11:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sepang starts the 2016 Shell Advance Asia Talent Cup]]></title>
             <description><![CDATA[<article><h1>Sepang starts the 2016 Shell Advance Asia Talent Cup</h1><p>The Shell Advance Asia Talent Cup enters its third year of competition with 2016 getting underway in Sepang,
 
-Winter is over.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/426b1253-a124-47a2-824e-04c8485d7eb5.jpg"></article>]]></description>
-            <link>undefinedsepang-starts-the-2016-shell-advance-asia-talent-cup/index.html</link>
+Winter is over.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02e3805d1f814edd282b8d6c501b9983e21914f3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/0db-tv/sepang-starts-the-2016-shell-advance-asia-talent-cup/index.html</link>
             <guid isPermaLink="false">b9585722-093e-43f3-a0bd-cafe9eea9d0e</guid>
             <pubDate>Mon, 08 Feb 2016 16:09:37 GMT</pubDate>
         </item>
